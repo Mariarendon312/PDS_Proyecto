@@ -1,6 +1,6 @@
 public class Main{
 
  public static void main(String[] args){
-   System.out.println("Programa completo");
+   System.out.println("Hola mundo completo");
  }
 }
